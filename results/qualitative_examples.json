@@ -1,0 +1,65 @@
+[
+  {
+    "example_num": 1,
+    "category": "Sports_and_Outdoors",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Medium",
+    "review": "These bases are very nice for the price, even if they were cost a little more.They are very thick rubber, with a waffle design on the bottom. i coach my sons baseball team, and these have held up very",
+    "explanation": "this is a positive review with a 5 star rating that provides moderate - length feedback ."
+  },
+  {
+    "example_num": 2,
+    "category": "Cell_Phones_and_Accessories",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Long",
+    "review": "Whenever I get a new portable device, one of the first things I do is buy a screen protector, then I have my husband apply it. When hubby got a Blackberry, I ordered these right away. When they arrive",
+    "explanation": "based on the moderate - length review text the overall is positive corresponding to 5 stars ."
+  },
+  {
+    "example_num": 3,
+    "category": "Beauty",
+    "rating": 3.0,
+    "sentiment": "Neutral",
+    "length_class": "Medium",
+    "review": "For me the lotion is too greasy for my face so I use it for hand lotion.  I also purchased the 2-pack of Eucerin Q10 Cream which is really good for the back of the hands and I will certainly use it fo",
+    "explanation": "the reviewer neutral in a moderate - length response giving 3 out of 5 stars ."
+  },
+  {
+    "example_num": 4,
+    "category": "Sports_and_Outdoors",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Long",
+    "review": "Trac Ball is just as much fun today as you remember it as a kid.While growing up my friends and I developed dozens of Trac Ball related games. Some were like LaCrosse while others were like a stationa",
+    "explanation": "based on the moderate - length review text the overall is positive corresponding to 5 stars ."
+  },
+  {
+    "example_num": 5,
+    "category": "Sports_and_Outdoors",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Short",
+    "review": "I use this lubricant mainly for keeping my seals alive and viable.  One little drop on the tip of your CO2 cartridge does the trick.",
+    "explanation": "based on the brief review text the overall is positive corresponding to 5 stars ."
+  },
+  {
+    "example_num": 6,
+    "category": "Sports_and_Outdoors",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Short",
+    "review": "It is exactly as described. It does a great job keeping your canteen cool. I could not be without it when I need to bring a canteen along.",
+    "explanation": "this is a positive review with a 5 star rating that provides brief feedback ."
+  },
+  {
+    "example_num": 7,
+    "category": "Cell_Phones_and_Accessories",
+    "rating": 5.0,
+    "sentiment": "Positive",
+    "length_class": "Short",
+    "review": "This is a cute case! Love the color and Has held up very good! Price was perfect, couldn't beat it! Great experience with Seller! Would buy from again!",
+    "explanation": "based on the brief review text the overall is positive corresponding to 5 stars ."
+  }
+]

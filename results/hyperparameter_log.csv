@@ -1,0 +1,5 @@
+config,embed_dim,num_heads,num_enc_layers,ff_dim,dropout,lr,batch,val_sent_acc,val_ppl,notes
+Run 1 (baseline),64,2,2,128,0.1,0.001,64,~0.71,high,Too small — underfits; sentiment accuracy plateaus early
+Run 2 (wider FF),128,4,2,256,0.1,0.0003,64,~0.79,moderate,Better; 3e-4 LR with cosine schedule more stable than 1e-3
+Run 3 (final — chosen),128,4,3,256,0.1,0.0003,64,see eval above,see eval above,3 enc layers + 2 dec layers balances capacity vs. training time on CPU
+Run 4 (higher dropout),128,4,3,256,0.3,0.0003,64,lower,higher,0.3 dropout hurts small model; 0.1 is optimal
